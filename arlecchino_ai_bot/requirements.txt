@@ -1,0 +1,7 @@
+arlecchino_ai_bot/
+├── bot.py
+├── config.py
+├── database.py
+├── keyboards.py
+├── requirements.txt
+└── .gitignore
